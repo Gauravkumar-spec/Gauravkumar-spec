@@ -6,9 +6,7 @@
 </h1>
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/3cP5JH7/developer-banner.png" alt="banner" width="800"/>
-</p>
+
 
 ---
 
